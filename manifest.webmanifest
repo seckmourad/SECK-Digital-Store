@@ -1,0 +1,19 @@
+{
+  "name": "SECK Digital Store",
+  "short_name": "SECK",
+  "description": "متجر SECK للشحن الرقمي",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b18",
+  "theme_color": "#080d20",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
